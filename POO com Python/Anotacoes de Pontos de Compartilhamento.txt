@@ -1,0 +1,1 @@
+- Slots (Como proteger uma classe)
